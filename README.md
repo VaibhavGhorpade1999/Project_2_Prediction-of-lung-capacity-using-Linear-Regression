@@ -1,1 +1,0 @@
-# Project_1_Prediction-of-lung-capacity-using-Linear-Regression
